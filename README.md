@@ -1,6 +1,6 @@
 # QUADB-TECH
-### Copy the URL 
-### Clone by the command git clone <url>
+### Copy the URL https://github.com/gulshan1002/QUADB-TECH.git
+### Clone by the command git clone https://github.com/gulshan1002/QUADB-TECH.git
 ### Go to the folder and do npm i
 ### type nodemon start
 ### wait for the server to start and database to loaad
